@@ -1,0 +1,24 @@
+:root {
+    --accent: var(--info-positive-foreground)!important;
+    --activity-card-background: var(--background-tertiary)!important;
+    --background-accent: #181f21!important;
+    --background-accent-alt: #242424!important;
+    --background-floating: #121719!important;
+    --background-nested-floating: var(--background-floating);
+    --background-primary: #181f21!important;
+    --background-secondary: #121719!important;
+    --background-secondary-alt: #121719!important;
+    --background-tertiary: #181f21!important;
+    --background-modifier-hover: #1e272a80!important;
+    --background-modifier-selected: #181f21!important;
+    --channeltextarea-background: #121719!important;
+    --interactive-active: #fff!important;
+    --interactive-hover: #dcddde!important;
+    --interactive-muted: #253236!important;
+    --interactive-normal: #c8c8c8!important;
+    --input-background: #253236!important;
+    html {
+        --brand-experiment: hsl(206, 56%, 66%)!important;
+        --brand-experiment-560: var(--brand-experiment)!important;
+    }
+}

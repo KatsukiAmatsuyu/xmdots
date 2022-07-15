@@ -1,0 +1,27 @@
+#+title: XMDots
+#+author: Katsuki Amatsuyu (@katsukibtw)
+#+STARTUP: showeverything
+
+* XMDots
+This is my dotfiles for XMonad tiling wm. Configs for XMonad and XMobar are based on dtos-xmonad and dtos-xmobar. Some parts of original configs are deleted, some of them are rewritten, some of them were originally written by me
+
+** Screenshots
+#+CAPTION: Screenshot 1
+#+ATTR_HTML: :alt Screenshot 1 :title Screenshot :align left :width 1200
+[[https://notabug.org/katsuki/xmdots/raw/master/assets/scr1.png]]
+
+#+CAPTION: Screenshot 2
+#+ATTR_HTML: :alt Screenshot 2 :title Screenshot :align left :width 1200
+[[https://notabug.org/katsuki/xmdots/raw/master/assets/scr2.png]]
+
+** This repo contains
+- XMonad config
+- XMobar config
+- Doom Emacs config
+- Some scripts for XMobar and dmenu
+- My dmenu fork (just patched sources of dmenu for build)
+- My slock fork (just patched sources of slock for build)
+- My firefox custom css (waterfall with changed colors)
+- My discord theme for powercord
+- Some of my wallpapers
+- Misc configs (alacritty, ranger, picom, zsh)

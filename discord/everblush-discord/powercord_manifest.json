@@ -1,0 +1,8 @@
+{
+    "name": "everblush-discord",
+    "description": "Blushy dark theme for Discord (edited fork of one-dark-discord)",
+    "version": "0.0.1",
+    "author": "Katsuki",
+    "license": "MIT",
+    "theme": "main.scss"
+}
