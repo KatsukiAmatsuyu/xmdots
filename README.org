@@ -2,7 +2,7 @@
 #+author: Katsuki Amatsuyu (@katsukibtw)
 #+STARTUP: showeverything
 
-* XMDots
+* About this repo
 This is my dotfiles for XMonad tiling wm. Configs for XMonad and XMobar are based on dtos-xmonad and dtos-xmobar. Some parts of original configs are deleted, some of them are rewritten, some of them were originally written by me
 
 ** Screenshots
